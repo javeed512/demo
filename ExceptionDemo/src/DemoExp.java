@@ -8,7 +8,8 @@ public class DemoExp {
 	String[] names = {"king","tom","smith","ravi"};
 	
 	double  []amount = {900,8000,7000,3000};
-	
+	    
+	System.out.println("hi iam ranadeep");
 	
 				System.out.println("ACNO  NAMES   AMOUNT");
 				
