@@ -3,7 +3,7 @@ public class DemoExp {
 
 	public static void main(String[] args) {
 	
-	int account[] = {101,102,103,104};	
+	int account[] = {};	
 	
 	String[] names = {"king","tom","smith","ravi"};
 	
